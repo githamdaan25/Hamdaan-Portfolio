@@ -8,7 +8,7 @@
 
 <img width="1440" alt="4" src="https://github.com/githamdaan25/Hamdaan-Portfolio/assets/85315584/adec182a-c507-4462-9f7a-9c73fc2e8ecf">
 
-<img width="1440" alt="5" src="https://github.com/githamdaan25/Hamdaan-Portfolio/assets/85315584/9efea2cd-f696-4a34-a99f-a537241bb40a">
+![image](https://github.com/githamdaan25/Hamdaan-Portfolio/assets/85315584/2051d8f3-10f7-45a0-8a0a-38d5f5ba33c7)
 
 <img width="1440" alt="6" src="https://github.com/githamdaan25/Hamdaan-Portfolio/assets/85315584/c0b44238-dca3-40e1-9ae1-6516a72ccf8b">
 
